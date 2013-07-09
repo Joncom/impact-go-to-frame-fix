@@ -3,6 +3,10 @@ Impact gotoFrame Fix
 
 #####Fix for `ig.Animation.gotoFrame` which sometimes does not immediately select the argument frame.#####
 
+#### Installation ####
+1. Put plugin here: `/lib/plugins/joncom/go-to-frame-fix/`
+2. Require `'plugins.joncom.go-to-frame-fix.animation'`.
+
 #### Example Problem ####
 
 ```
