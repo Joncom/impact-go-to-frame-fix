@@ -22,4 +22,4 @@ this.frameTime == 0.03, f == 11
 // However, in JavaScript:
 (0.03 * -11) == -0.32999999999999996
 ```
-Therefor we must round!
+Therefore we must round!
