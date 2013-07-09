@@ -1,4 +1,4 @@
-ig.module('plugins.go-to-frame-fix.animation')
+ig.module('plugins.joncom.go-to-frame-fix.animation')
 .requires('impact.animation')
 .defines(function(){ "use strict";
     ig.Animation.inject({
