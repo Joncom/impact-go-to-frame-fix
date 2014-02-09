@@ -1,7 +1,9 @@
 Impact gotoFrame Fix
 ==========
 
-#####Fix for `ig.Animation.gotoFrame` which sometimes does not immediately select the argument frame.#####
+#####Fix for `ig.Animation.gotoFrame` which [sometimes](http://impactjs.com/forums/help/ig-animation-is-skipping-certain-frames) does not immediately select the correct frame.#####
+
+#####Important Note: This fix is no longer necessary because it has been addressed in the latest version of ImpactJS.#####
 
 #### Installation ####
 1. Put plugin here: `/lib/plugins/joncom/go-to-frame-fix/`
